@@ -1,2 +1,3 @@
 # cssiworkshop2020
-cssi 2020 workshop
+
+CSSI 2020 GitHub Workshop
